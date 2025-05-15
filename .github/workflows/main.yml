@@ -25,4 +25,4 @@ jobs:
           
       
       - name: Run main.py
-        run: python main.py -u 19803688774 -p 学习通密码 -l 9420,.ab #课程id，251871763
+        run: python main.py -u 19803688774 -p 9420,.ab -l  251871763
